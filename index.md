@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Proyecto sobre la discriminación
 
 You can use the [editor on GitHub](https://github.com/if-4/hola-mundo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
