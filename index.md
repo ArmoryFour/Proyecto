@@ -2,7 +2,7 @@
 
 ### ¿Qué es?
 
-En comportamiento social, la discriminación (del latín discriminatĭo, -ōnis) es el trato desigual hacia una persona o colectividad por motivos raciales, religiosos, diferencias físicas, políticas, de sexo, de edad, de condición física o mental, orientación sexual , etc
+En comportamiento social, la discriminación es el trato desigual hacia una persona o colectividad por motivos raciales, religiosos, diferencias físicas, políticas, de sexo, de edad, de condición física o mental, orientación sexual , etc
 
 ### ¿Cómo se siente la gente discriminada?
 
